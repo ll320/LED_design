@@ -1,1 +1,1 @@
-# LED_design
+# BME590 Design Challenge
