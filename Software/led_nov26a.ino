@@ -1,7 +1,7 @@
 // use preprocessor directives to define constants in the code
 #define FLASH_RATE_HZ 2
 #define BUTTON_IN 2
-#define PWM_LED_OUT 11
+#define PWM_LED_OUT 5
 #define PWM_MAX 255
 
 // global variables representing "state" across all functions
