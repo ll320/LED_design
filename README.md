@@ -16,7 +16,7 @@
 ## Components Included
 * single battery of 9 V:
     + easily replacable
-    + battery life - ## hrs on, ## hrs off
+    + battery life - 35 hrs on, 80 hrs off
 * single-sided PCB (printed circuit board)
     + Atmega chip removable for reprogramming
     + LED changable
@@ -27,4 +27,4 @@
 
 ## Dimensions
 * Box -- h:25mm x w:55mm x l:124mm
-* Acrylic sheet --
+* Acrylic sheet -- 3mm x 110mm x 110mm
