@@ -15,11 +15,11 @@
 
 ## Components Included
 * single battery of 9 V:
-    easily replacable
-    battery life - ## hrs on, ## hrs off
+    + easily replacable
+    + battery life - ## hrs on, ## hrs off
 * single-sided PCB (printed circuit board)
-    Atmega chip removable for reprogramming
-    LED changable
+    + Atmega chip removable for reprogramming
+    + LED changable
 * 5 LEDs: red, blue, green, yellow, white
 * 3 acrylic designs
 * lid
