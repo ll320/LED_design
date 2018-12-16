@@ -1,41 +1,30 @@
-# BME590 Design Challenge
+# LED Acrylic Sheet Display
+* Great for home or office display, and can be used as a good looking night light. Customize your own LED color and acrylic sheet design!
+* Fit for children of ages 6+ with guidance of an adult. PCB is visible to the user, and can be an accessable way to learn about how electronics work. If you are interested, you may even make your own program for the light with the Atmega chip (Arduino board and original code provided)!
+* It can also survive 3 foot drop with battery installed~
 
-# Design Skills Project (Variable Light Intensity)
+# Usage Notes
 
-## Functional Specifications
-* LED light that is button-activated to switch between the following operating modes:
+## Variable Light Intensity
+* LED light is button-activated to switch between the following operating modes:
   1. `Off`
   1. `Brightest`
   1. `Intermediate Brightness`
   1. `Least Bright`
   1. `Flashing @ 2 Hz`
-* Self-contained device with LED and button exposed.
-* Extra credit possibilities:
-  + Battery life indicator
-  + Waterproof enclosure
-  + You tell us!
 
-## Constraints
-* Run on single battery up to 9 V
-* Electronics connected to a single PCB (can be single- or double-sided)
-* Cannot weight more than 1 lb
-* Cannot have a single dimension > 6 in
-* Cannot cost more than $50 to duplicate unit
-* Battery must be easily replaceable
+## Components Included
+* single battery of 9 V:
+    easily replacable
+    battery life - ## hrs on, ## hrs off
+* single-sided PCB (printed circuit board)
+    Atmega chip removable for reprogramming
+    LED changable
+* 5 LEDs: red, blue, green, yellow, white
+* 3 acrylic designs
+* lid
+* box
 
-## Evaluation
-* Minimize weight
-* Minimize size
-* Maximize `Brightest` mode
-* Minimize power draw / maximize battery life
-* Survive 3 foot drop with battery installed
-
-* Create-and-maintain a GitHub project repository to maintain version history of:
-  + Mechanical CAD (PDFs + more)
-  + Electronic CAD (PDFs + more)
-  + Software
-  + Testing data
-  + Design history / notes
-  + Specification sheets
-  + Usage notes (`README.md`)
-  + Kanban board / Issues / Milestones
+## Dimensions
+* Box -- h:25mm x w:55mm x l:124mm
+* Acrylic sheet --
