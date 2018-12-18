@@ -16,7 +16,7 @@
 ## Components Included
 * single battery of 9 V:
     + easily replacable
-    + battery life - (assuming 500mAh capacity) 16 hrs on brightest mode, 26 hrs on least bright mode, 32 hrs off
+    + battery life - (assuming 500mAh capacity) **16 hrs** on brightest mode, **26 hrs** on least bright mode, **32 hrs** off
 * single-sided PCB (printed circuit board)
     + Atmega chip removable for reprogramming
     + LED changable
